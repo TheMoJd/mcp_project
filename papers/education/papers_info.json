@@ -1,0 +1,56 @@
+{
+  "2401.17391v1": {
+    "title": "Education Policy and Intergenerational Educational Persistence: Evidence from rural Benin",
+    "authors": [
+      "Christelle Zozoungbo"
+    ],
+    "summary": "This paper employs a nonlinear difference-in-differences approach to\nempirically examine the Maximally Maintained Inequality (MMI) hypothesis in\nrural Benin. The findings of this study confirm the MMI hypothesis. In\nparticular, it is observed that when 76% of educated parents choose to educate\ntheir daughters in the absence of educational programs, in contrast to only 37%\namong non-educated parents, the average impact of tuition fee subsidy on\nenrollment probability in primary schools stands at 3.8\\% for non-educated\nhouseholds and 0.27% for educated households. Conversely, in cases where only\n27% of educated parents decide to educate their daughters without education\nprograms, the average effect of tuition fee waivers on enrollment probability\nin primary schools increases to 19.64\\% for non-educated households and 24\\%\nfor educated households. From the analysis of household education decisions\ninfluenced by a preference for education and budget constraints, three key\nconclusions emerge to explain the mechanism behind the MMI. Firstly, when the\nincome advantage of educated households compared to non-educated households is\nsignificantly high, irrespective of the level of their preference advantage,\nreducing the financial cost of education induces a greater shift in education\ndecisions among non-educated households. Secondly, in situations where educated\nhouseholds do not possess an income advantage relative to non-educated\nhouseholds, the reduction in education-related financial costs leads to a more\npronounced change in education decisions among educated households. Lastly, for\nthe low-income advantage of educated households, as the income advantage of\neducated households increases, non-educated households respond more to\neducation policy than educated parents, if the preference advantage of educated\nhouseholds is relatively smaller.",
+    "pdf_url": "http://arxiv.org/pdf/2401.17391v1",
+    "published": "2024-01-30"
+  },
+  "1805.07609v1": {
+    "title": "Complexity in Mathematics Education",
+    "authors": [
+      "Brent Davis",
+      "Pratim Sengupta"
+    ],
+    "summary": "This chapter presents a brief review of complexity research in mathematics\neducation. We argue how research on complexity, as it pertains to mathematics\neducation, can be viewed as an epistemological discourse, an historical\ndiscourse, a disciplinary discourse, and a pragmatic discourse.",
+    "pdf_url": "http://arxiv.org/pdf/1805.07609v1",
+    "published": "2018-05-19"
+  },
+  "2303.07294v1": {
+    "title": "Mobile devices as experimental tools in physics education: some historical and educational background",
+    "authors": [
+      "Luis Darmendrail",
+      "Alice Gasparini",
+      "Andreas M\u00fcller"
+    ],
+    "summary": "The present text provides a short, non-technical account of some historical\nand educational background and, based on this, of the rationale of the use of\nmobile devices in physics education.",
+    "pdf_url": "http://arxiv.org/pdf/2303.07294v1",
+    "published": "2023-03-13"
+  },
+  "2004.05892v1": {
+    "title": "Computers in Secondary Schools: Educational Games",
+    "authors": [
+      "Margarida Romero"
+    ],
+    "summary": "This entry introduces educational games in secondary schools. Educational\ngames include three main types of educational activities with a playful\nlearning intention supported by digital technologies: educational serious\ngames, educational gamification, and learning through game creation.\nEducational serious games are digital games that support learning objectives.\nGamification is defined as the use of \"game design elements and game thinking\nin a non-gaming context\" (Deterding et al. 2011, p. 13). Educational\ngamification is not developed through a digital game but includes game elements\nfor supporting the learning objectives. Learning through game creation is\nfocused on the process of designing and creating a prototype of a game to\nsupport a learning process related to the game creation process or the\nknowledge mobilized through the game creation process. Four modalities of\neducational games in secondary education are introduced in this entry to\ndescribe educational games in secondary education: educational purpose of\nentertainment games, serious games, gamification, and game design.",
+    "pdf_url": "http://arxiv.org/pdf/2004.05892v1",
+    "published": "2020-04-07"
+  },
+  "2503.02999v1": {
+    "title": "Adapting to Educate: Conversational AI's Role in Mathematics Education Across Different Educational Contexts",
+    "authors": [
+      "Alex Liu",
+      "Lief Esbenshade",
+      "Min Sun",
+      "Shawon Sarkar",
+      "Jian He",
+      "Victor Tian",
+      "Zachary Zhang"
+    ],
+    "summary": "As educational settings increasingly integrate artificial intelligence (AI),\nunderstanding how AI tools identify -- and adapt their responses to -- varied\neducational contexts becomes paramount. This study examines conversational AI's\neffectiveness in supporting K-12 mathematics education across various\neducational contexts. Through qualitative content analysis, we identify\neducational contexts and key instructional needs present in educator prompts\nand assess AI's responsiveness. Our findings indicate that educators focus\ntheir AI conversations on assessment methods, how to set the cognitive demand\nlevel of their instruction, and strategies for making meaningful real-world\nconnections. However, educators' conversations with AI about instructional\npractices do vary across revealed educational contexts; they shift their\nemphasis to tailored, rigorous content that addresses their students' unique\nneeds. Educators often seek actionable guidance from AI and reject responses\nthat do not align with their inquiries. While AI can provide accurate,\nrelevant, and useful information when educational contexts or instructional\npractices are specified in conversation queries, its ability to consistently\nadapt responses along these evaluation dimensions varies across different\neducational settings. Significant work remains to realize the\nresponse-differentiating potential of conversational AI tools in complex\neducational use cases. This research contributes insights into developing AI\ntools that are responsive, proactive, and anticipatory, adapting to evolving\neducational needs before they are explicitly stated, and provides actionable\nrecommendations for both developers and educators to enhance AI integration in\neducational practices.",
+    "pdf_url": "http://arxiv.org/pdf/2503.02999v1",
+    "published": "2025-03-04"
+  }
+}
