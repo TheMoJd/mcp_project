@@ -110,7 +110,7 @@ This Python script implements an MCP server specifically for research-related ta
 This JSON file defines the MCP servers that the [`mcp_chatbot.py`](/home/mopolaria/dev/mcp-project/mcp_project/mcp_chatbot.py) application should connect to.
 
 ```json
-// filepath: /home/mopolaria/dev/mcp-project/mcp_project/server_config.json
+
 {
     "mcpServers": {
         "filesystem": { // Example server (not fully implemented in this project's Python code)
@@ -147,7 +147,6 @@ This directory is used by the [`research_server.py`](/home/mopolaria/dev/mcp-pro
 A simple Python script that prints a greeting. It appears to be a placeholder or an initial file and is not directly used by the chatbot or server logic.
 
 ```python
-// filepath: /home/mopolaria/dev/mcp-project/mcp_project/main.py
 def main():
     print("Hello from mcp-project!")
 
